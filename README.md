@@ -1,10 +1,17 @@
-# MoveRobot
-C# Console Application
+
+C# Console Application - Simple Robot Program
 
 The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
 There are no other obstructions on the table surface.
 The robot is free to roam around the surface of the table, and is prevented from falling to destruction. Any movement that would result in the robot falling from the table is prevented, however further valid movement commands must still be
 allowed.
+
+**Features**
+* Easy and user friendly positioning
+* Easily Maneuverable using arrow keys
+* Edge detection and warning intelligence using color change
+* Position and direction reporting **
+
 
 Allowed Commands :
 
@@ -29,4 +36,5 @@ REPORT will announce the X,Y and F of the robot. For User experiance, a matrix r
 A robot that is not on the table will ignore the MOVE, LEFT, RIGHT and REPORT commands.
 
 User can enter the input commands directly to the console application
+
 
