@@ -1,0 +1,6 @@
+D:\Projects\Robot\ROBOTConsole\bin\Debug\ROBOTConsole.exe.config
+D:\Projects\Robot\ROBOTConsole\bin\Debug\ROBOTConsole.exe
+D:\Projects\Robot\ROBOTConsole\bin\Debug\ROBOTConsole.pdb
+D:\Projects\Robot\ROBOTConsole\obj\Debug\ROBOTConsole.csprojResolveAssemblyReference.cache
+D:\Projects\Robot\ROBOTConsole\obj\Debug\ROBOTConsole.exe
+D:\Projects\Robot\ROBOTConsole\obj\Debug\ROBOTConsole.pdb
